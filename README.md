@@ -1,4 +1,4 @@
 euler
 =====
 
-Solutions to Euler Project in Processing (Java).
+Solutions to Euler Project in C and Processing (Java).
