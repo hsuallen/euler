@@ -12,4 +12,5 @@ int main(void) {
 		if (next > 4000000) break;
 	}
 	printf("%d\n", sum);
+	return 0;
 }

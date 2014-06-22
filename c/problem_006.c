@@ -15,4 +15,5 @@ int main(void) {
 	squareSum = square(squareSum);
 	int difference = squareSum - sumSquares;
 	printf("%d\n", difference);
+	return 0;
 }
